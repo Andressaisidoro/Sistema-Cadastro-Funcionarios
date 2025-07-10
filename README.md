@@ -1,11 +1,12 @@
-![Pagina 1](https://github.com/user-attachments/assets/0e3cc44a-1110-4e97-8fbc-218eb167be75)Sistema de Funcionários - Gestão Profissional de Recursos Humanos
+![Pagina 8](https://github.com/user-attachments/assets/4ce44544-ea60-4a27-bc78-b5dc034e0b35)![Pagina 7](https://github.com/user-attachments/assets/df485518-a098-40c5-a780-3b6f551f02b4)![Pagina 6](https://github.com/user-attachments/assets/14495594-42ff-452b-868a-e308702139ac)![Pagina 5](https://github.com/user-attachments/assets/02c2b9b3-df44-427c-9bbc-4676bebca29e)![Pagina 4](https://github.com/user-attachments/assets/22d9d976-0097-49f5-98e0-bc60546d0dbf)![Pagina 3](https://github.com/user-attachments/assets/47b70b4e-3c88-41a8-b197-80fc23ca15f1)![Pagina 2](https://github.com/user-attachments/assets/7aefb0a1-bdcb-409d-a045-3308c4360c7a)![Pagina 1](https://github.com/user-attachments/assets/35771855-1453-4b0e-bbf8-7e98679687ef)![Pagina 1](https://github.com/user-attachments/assets/83642c75-3cc2-4283-b0e6-cc3163159c37)
 
+Sistema de Funcionários - Gestão Profissional de Recursos Humanos
 Apresento o Sistema de Funcionários, uma solução completa e intuitiva para uma gestação profissional de recursos humanos. Desenvolvimento para otimizar o controle e uma organização de sua equipe, este sistema de recepção uma interface moderna e funcional, ideal para empresas de todos os tamanhos.
 
 Funcionalidades Principais:
 - Cadastro e Login: Crie e gerencie contas de empresas com facilidade. O sistema permite o cadastro de novas empresas com nome, e-mail e senha, além de oferecer uma área de login segura para acesso rápido.
 - Configurações Personalizadas: Ajuste o sistema ao seu estilo com opções de tema claro ou escudo. Gerencie informações da empresa, como nome, subtítulo e logotipo, além de configurações de contato e sistema.
--Gestão de Funcionários: Registre e acompanhe dados detidos de seus colaboradores, incluindo nome, e-mail, carga, departamento, salário, dados de nascimento, estado civil, endereço e muito mais. Inclui filtros por status e departamentos para uma visão clara da equipe.Gestão de Funcionários: Registre e acompanhe dados detidos de seus colaboradores, incluindo nome, e-mail, carga, departamento, salário, dados de nascimento, estado civil, endereço e muito mais. Inclui filtros por status e departamentos para uma visão clara da equipe.Gestão de Funcionários: Registre e acompanhe dados detidos de seus colaboradores, incluindo nome, e-mail, carga, departamento, salário, dados de nascimento, estado civil, endereço e muito mais. Inclui filtros por status e departamentos para uma visão clara da equipe.
+-Gestão de Funcionários: Registre e acompanhe dados detidos de seus colaboradores, incluindo nome, e-mail, carga, departamento, salário, dados de nascimento, estado civil, endereço e muito mais. Inclui filtradoradoradoradorados por status e departamentos para uma visão clara da equipe.Gestão de Funcionários: Registre e acompanhe dados detidos de seus colaboradores, incluso nome, e-mail, carga, departamento, salário, dados de nascimento, estado civil, endereço e muito mais. Inclui filtrados por status e departamentos para uma visão clara da equipe.Gestão de Funcionários: Registre e acompanhe dados de seus colaboradores, inclusiveo nome, e-mail, carga, departamento, salário, dados de nascimento, estado civil, endereço e muito mais. Inclui filtros por status e departamentos para uma visão clara da equipe.
 - Painel de Controle: Acompanhe o desempenho e a distribuição de sua equipe através de um dashboard interativo. Visualize relatórios mensais, estatísticas e gráficos que ajudam na tomada de decisões estratégicas.
 - Segurança e Suporte: Proteja suas informações com autenticação robusta e altere e-mails de contato com suporte dedicado.
 
@@ -50,14 +51,18 @@ Ferramentas de Desenvolvimento:
 - Autoprefixer - Prefixos CSS automáticos
 
  Resumo:
-![Pagina 8](https://github.com/user-attachments/assets/26f20cf0-ae8c-4576-b79f-02bf03202d3b)
-![Pagina 7](https://github.com/user-attachments/assets/43e6a6e3-f3d5-40d8-bda3-b0f478b47ffd)
-![Pagina 6](https://github.com/user-attachments/assets/b316cae0-de30-4739-aaef-04b6e68ba82a)
-Este é um projeto moderno de Sistema de Cadastro de Funcionários construído com React + TypeScript, utilizando Vite como bundler, Tailwind CSS para estab![Pagina 5](https://github.com/user-attachments/assets/5c79ac70-38ff-4462-8885-633f05dee4a3)
-![Pagina 4](https://github.com/user-attachments/assets/dab6a32b-8867-4cc2-8b7e-149ad23fc8b5)
-ilização, Shadcn/ui para componentes, e Supabase como backend. É uma aplicação full-stack com foco em uma interface moderna e responsiva.![Pagina 3](https://github.com/user-attachments/assets/82324add-174f-44b2-a81e-d144b52fe652)
-![Pagina 2](https://github.com/user-attachments/assets/ec525edd-fd5f-4831-807b-4bbe50519dfb)
-![Carregando Pagina 1.png...]()
+Este é um projeto moderno de Sistema de Cadastro de Funcionários construído com React + TypeScript, utilizando Vite como bundler, Tailwind CSS para estab![Pagina 5](https://github.com/user-attachments/assets/5c79ac70-38ff-
+ilização, Shadcn/ui para componentes, e Supabase como backend. É uma aplicação full-stack com foco em uma interface moderna e responsiva.
+
+
+![Carregando Pagina 1.png...]() ![Carregando Pagina 2.png...]() ![Carregando Pagina 3.png...]() ![Carregando Pagina 4.png...]() ![Carregando Pagina 5.png...]() ![Carregando Pagina 6.png...]() ![Carregando Pagina 7.png...]() ![Carregando Pagina 8.png...]()
+
+
+
+
+
+
+
 
 
   
