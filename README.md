@@ -1,5 +1,4 @@
-Sistema de Funcionários - Gestão Profissional de Recursos Humanos
-
+Sistema de Funcionários  Gestão Profissional de Recursos Humanos
 Apresento o Sistema de Funcionários, uma solução completa e intuitiva para uma gestação profissional de recursos humanos. Desenvolvimento para otimizar o controle e uma organização de sua equipe, este sistema de recepção uma interface moderna e funcional, ideal para empresas de todos os tamanhos.
 
 Funcionalidades Principais:
