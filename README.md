@@ -1,5 +1,3 @@
-![Pagina 8](https://github.com/user-attachments/assets/4ce44544-ea60-4a27-bc78-b5dc034e0b35)![Pagina 7](https://github.com/user-attachments/assets/df485518-a098-40c5-a780-3b6f551f02b4)![Pagina 6](https://github.com/user-attachments/assets/14495594-42ff-452b-868a-e308702139ac)![Pagina 5](https://github.com/user-attachments/assets/02c2b9b3-df44-427c-9bbc-4676bebca29e)![Pagina 4](https://github.com/user-attachments/assets/22d9d976-0097-49f5-98e0-bc60546d0dbf)![Pagina 3](https://github.com/user-attachments/assets/47b70b4e-3c88-41a8-b197-80fc23ca15f1)![Pagina 2](https://github.com/user-attachments/assets/7aefb0a1-bdcb-409d-a045-3308c4360c7a)![Pagina 1](https://github.com/user-attachments/assets/35771855-1453-4b0e-bbf8-7e98679687ef)![Pagina 1](https://github.com/user-attachments/assets/83642c75-3cc2-4283-b0e6-cc3163159c37)
-
 Sistema de Funcionários - Gestão Profissional de Recursos Humanos
 Apresento o Sistema de Funcionários, uma solução completa e intuitiva para uma gestação profissional de recursos humanos. Desenvolvimento para otimizar o controle e uma organização de sua equipe, este sistema de recepção uma interface moderna e funcional, ideal para empresas de todos os tamanhos.
 
@@ -52,6 +50,8 @@ Ferramentas de Desenvolvimento:
 
  Resumo:
 Este é um projeto moderno de Sistema de Cadastro de Funcionários construído com React + TypeScript, utilizando Vite como bundler, Tailwind CSS para estabilização, Shadcn/ui para componentes, e Supabase como backend. É uma aplicação full-stack com foco em uma interface moderna e responsiva.
+
+![Pagina 8](https://github.com/user-attachments/assets/4ce44544-ea60-4a27-bc78-b5dc034e0b35)![Pagina 7](https://github.com/user-attachments/assets/df485518-a098-40c5-a780-3b6f551f02b4)![Pagina 6](https://github.com/user-attachments/assets/14495594-42ff-452b-868a-e308702139ac)![Pagina 5](https://github.com/user-attachments/assets/02c2b9b3-df44-427c-9bbc-4676bebca29e)![Pagina 4](https://github.com/user-attachments/assets/22d9d976-0097-49f5-98e0-bc60546d0dbf)![Pagina 3](https://github.com/user-attachments/assets/47b70b4e-3c88-41a8-b197-80fc23ca15f1)![Pagina 2](https://github.com/user-attachments/assets/7aefb0a1-bdcb-409d-a045-3308c4360c7a)![Pagina 1](https://github.com/user-attachments/assets/35771855-1453-4b0e-bbf8-7e98679687ef)![Pagina 1](https://github.com/user-attachments/assets/83642c75-3cc2-4283-b0e6-cc3163159c37)
 
 
 
