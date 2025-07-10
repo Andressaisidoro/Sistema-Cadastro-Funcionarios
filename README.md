@@ -55,7 +55,7 @@ Este é um projeto moderno de Sistema de Cadastro de Funcionários construído c
 ilização, Shadcn/ui para componentes, e Supabase como backend. É uma aplicação full-stack com foco em uma interface moderna e responsiva.
 
 
-![Carregando Pagina 1.png...]() ![Carregando Pagina 2.png...]() ![Carregando Pagina 3.png...]() ![Carregando Pagina 4.png...]() ![Carregando Pagina 5.png...]() ![Carregando Pagina 6.png...]() ![Carregando Pagina 7.png...]() ![Carregando Pagina 8.png...]()
+
 
 
 
