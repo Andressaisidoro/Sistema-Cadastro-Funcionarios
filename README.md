@@ -51,8 +51,7 @@ Ferramentas de Desenvolvimento:
 - Autoprefixer - Prefixos CSS automáticos
 
  Resumo:
-Este é um projeto moderno de Sistema de Cadastro de Funcionários construído com React + TypeScript, utilizando Vite como bundler, Tailwind CSS para estab![Pagina 5](https://github.com/user-attachments/assets/5c79ac70-38ff-
-ilização, Shadcn/ui para componentes, e Supabase como backend. É uma aplicação full-stack com foco em uma interface moderna e responsiva.
+Este é um projeto moderno de Sistema de Cadastro de Funcionários construído com React + TypeScript, utilizando Vite como bundler, Tailwind CSS para estabilização, Shadcn/ui para componentes, e Supabase como backend. É uma aplicação full-stack com foco em uma interface moderna e responsiva.
 
 
 
